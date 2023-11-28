@@ -102,4 +102,4 @@ async def gs(ctx):
         await ctx.send(bilgi_str)
 
 # Botu çalıştırın
-bot.run('BURAYA_BOT_TOKENINIZI_YAZIN')
+bot.run(MTE3ODgwNzAzMzA1NTY3ODU2Ng.G4YGnD.5JYcqIyfiBPNkuvkjVaY5IXsD3BSOBTPk5_S3w)
